@@ -1,1 +1,2 @@
-Codes to reproduce the results and figures in submission id 12311
+Codes to reproduce the results and figures in Continual learning via probabilistic exchangeable sequence
+modelling
